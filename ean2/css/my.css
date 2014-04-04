@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{ width:764px; height:250px; background:#fff;}
+#header img{ border:none;margin:0;padding:0;}
+#header h1{ float:left; display:block; width:186px; height:100px; margin:0 0 50px 0; padding:0; font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#58595B;}
+#header h2{ float:right; display:block; width:530px; margin:20px; padding:0; text-align:right; font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#58595B;}
+#header h2 a{color:#58595B;}
+#header h2 a:hover{color:#000000;}
+
+#header ul{ clear:both; list-style:none; margin:0; padding:0;}
+#header ul li{ float:left; height:35px;}
+#header ul li a{ height:23px/*35px*/; text-decoration:none; display:block; cursor:pointer; background:#f7eec6; font-family:"Times New Roman", Times, serif; font-size:14px; color: #808285; padding:7px 16px 5px 16px;}
+#header ul li a:hover{color: #595754;}
+
+#footer{width:724px/*764px*/; height:210px/*250px*/; background:#f7eec6; padding:20px;}
+#footer img{ border:none;margin:0;padding:0;}
+#footer h1{float:left; display:block; margin:0; padding:0; font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#58595B;}
+#footer h2{float:right; display:block; margin:0; padding:0; font-family:Arial, Helvetica, sans-serif;font-size:11px; color:#58595B;}
+#footer h2 a{color:#58595B;}
+#footer h2 a:hover{color:#000000;}
+
+#footer h3{clear:both; display:block; margin:0; padding:100px 0 0 0; font-size:13px; text-align:center; font-family:Arial, Helvetica, sans-serif; color:#58595B;}
+#footer h3 a{font-size:13px; color:#58595B;}
+#footer h3 a:hover{color:#000000;}
+
